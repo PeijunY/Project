@@ -1,0 +1,100 @@
+1,AAPT-ASP.NET,陈俊博,Richard Chen
+2,AAPT-ASP.NET,陈铭豪,Harvey Chen
+3,AAPT-ASP.NET,洪攀峰,Panfeng Hong
+4,AAPT-ASP.NET,姜叶群,Ekin Jiang
+5,AAPT-ASP.NET,林志玉,Amiee Lin
+6,AAPT-ASP.NET,罗莉,Alice Luo
+7,AAPT-ASP.NET,潘雪莲,Xuelian Pan
+8,AAPT-ASP.NET,陶婕,Kara Tao
+9,AAPT-ASP.NET,涂占乐,Rabin Tu
+10,AAPT-ASP.NET,王佩佩,Piper Wang
+11,AAPT-ASP.NET,王应龙,Bill Wang
+12,AAPT-ASP.NET,赵奇,Nick Zhao
+13,AAPT-IIS,邸琦,Qi Di
+14,AAPT-IIS,冯滢滢,Leia Feng
+15,AAPT-IIS,谷玉芹,Alice Gu
+16,AAPT-IIS,黄东,Mogul Huang
+17,AAPT-IIS,刘明,Mickey Liu
+18,AAPT-IIS,卢辉茂,George Lu
+19,AAPT-IIS,马锦锦,Margine Ma
+20,AAPT-IIS,石伟晟,Weisheng Shi
+21,AAPT-IIS,王春晖,Jean Wang
+22,AAPT-IIS,徐文正,Wenzheng Xu
+23,AAPT-IIS,张孟佳,Mengjia Zhang
+24,AM,陈士妹,Penny Chen
+25,AM,焦苗苗,Miaomiao Jiao
+26,AM,阮亚念,Rainbow Ruan
+27,AM,吴新星,Alex Wu
+28,AM,吴永磊,Yonglei Wu
+29,AM,张幻,Octavia Zhang
+30,AX Loc APAC,曹国枝,Guozhi Cao
+31,AX Loc APAC,陈彩霞,Yoyo Chen
+32,AX Loc APAC,崔佃鹏,Paul Cui
+33,AX Loc APAC,郭秋浩,Jacky Guo
+34,AX Loc APAC,金佳东,Joyer Jin
+35,AX Loc APAC,李彬,Bin Li
+36,AX Loc APAC,李才,Devin Li
+37,AX Loc APAC,刘春花,Chunhua Liu
+38,AX Loc APAC,刘晓光,Jade Liu
+39,AX Loc APAC,倪亚玲,Eileen Ni
+40,AX Loc APAC,彭建,Jonathan Peng
+41,AX Loc APAC,申兴文,Austin Shen
+42,Azure Stack,冯丹,Daisy Feng
+43,Azure Stack,贾舒馨,Ashley Jia
+44,Azure Stack,刘凡,Lisa Liu
+45,Azure Stack,熊霞,Bayle Xiong
+46,Azure Stack,徐彬耀,Binyao Xu
+47,Azure Stack,许维光,Steven Xu
+48,BAPI,范江著,Jeffrey Fan
+49,BAPI,郭盼盼,Piper Guo
+50,BAPI,金琦,Alfred Jin
+51,BAPI,李海洋,Dylan Li
+52,BAPI,李莎,Lisa Li
+53,BAPI,李文娟,Sally Li
+54,BAPI,李小朋,Sharpe Li
+55,BAPI,梁浩,Hao Liang
+56,BAPI,凌翔,Burney Ling
+57,BAPI,钱强,Tyler Qian
+58,BAPI,宋志超,Albert Song
+59,BAPI,陶禹洋,Edward Tao
+60,BAPI,王鑫,Bruce Wang
+61,BAPI,吴建阳,Jianyang Wu
+62,BAPI,张安迪,Andy Zhang
+63,BAPI,朱慧健,James Zhu
+64,CCIC,曹毅,Selina Cao
+65,CCIC,陈柏倩,Archer Chen
+66,CCIC,蒋成龙,Aaron Jiang
+67,CCIC,刘浩杨,Haoyang Liu
+68,CCIC,刘琦,Qi Liu
+69,CCIC,席浪洁,Summer Xi
+70,CCIC,张龙,Jason Zhang
+71,CCIC,周巍,Wei Zhou
+72,CMAT,李玉龙,Yulong Li
+73,CTP FRS Live Site,陈浩,Ricky Chen
+74,CTP FRS Live Site,丁守庆,Victor Ding
+75,CTP FRS Live Site,郭圣平,Jimmy Guo
+76,CTP FRS Live Site,侯宁,Alan Hou
+77,CTP FRS Live Site,李晨欣,Cathy Li
+78,CTP FRS Live Site,邱晓清,Anderson Qiu
+79,CTP FRS Live Site,盛敏伟,Simon Sheng
+80,CTP FRS Live Site,童红亮,Buddy Tong
+81,CTP FRS Live Site,许佩佩,Peipei Xu
+82,CTP FRS Live Site,朱大强,Ethan Zhu
+83,CTP Onsite,吴嫡,Woody Wu
+84,LeX,曹永绪,Star Cao
+85,LeX,代飞,Dave Dai
+86,LeX,丁海丽,Haili Ding
+87,LeX,黄浩文,Mike Huang
+88,LeX,李翠平,Carina Li
+89,LeX,刘庆骄,Cary Liu
+90,LeX,汤怡昕, 
+91,LeX,王鑫,Victor Wang
+92,LeX,闻人峥峥,Nash Wenren
+93,LeX,吴杰, 
+94,LeX,肖学文,Arvin Xiao
+95,LeX,胥李娜,Lina Xu
+96,LeX,薛其杰,Cooper Xue
+97,LeX,张博成,Brian Zhang
+98,LeX,张奕尧,Bill Zhang
+99,MBS SE,曹春猛,Terry Cao
+100,MBS SE,曹秀路,Gavin Cao
